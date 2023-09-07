@@ -1,14 +1,22 @@
 {
-  "name": "week2_2",
+  "name": "database",
   "version": "1.0.0",
-  "description": "",
+  "description": "week2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon --exec babel-node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeon-K/Database.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeon-K/Database/issues"
+  },
+  "homepage": "https://github.com/Yeon-K/Database#readme",
   "dependencies": {
     "@babel/core": "^7.22.15",
     "@babel/node": "^7.22.15",
